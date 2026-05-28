@@ -396,7 +396,3 @@ rag-project/
 ![RAG indexing in progress](SCREENSHOT.png)
 
 ---
-
-## License
-
-MIT
