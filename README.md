@@ -39,7 +39,7 @@ marker "/home/USER/Documents/PATH" "/home/system/Documents/CONVERTED" --workers 
 
 Update the paths above accordingly.
 
---workers 4 runs 4 parallel conversions at a time — you can increase this but watch your RAM since each worker loads a PDF into memory.
+--workers 4 runs 4 parallel conversions at a time, you can increase this but watch your RAM since each worker loads a PDF into memory.
 
 ### Convert legacy `.doc` files to `.docx`
 
