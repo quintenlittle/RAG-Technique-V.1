@@ -391,6 +391,8 @@ rag-project/
 └── skipped.log        # Files that failed to index and why
 ```
 
+---
+
 ![RAG indexing in progress](SCREENSHOT.png)
 
 ---
